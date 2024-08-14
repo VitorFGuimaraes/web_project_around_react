@@ -120,9 +120,9 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: "https://around.nomoreparties.co/v1/web-ptbr-cohort-11",
+  baseUrl: "https://around.nomoreparties.co/v1/web_ptbr_08",
   headers: {
-    authorization: "2a05ef84-2eeb-4d8e-80db-d6a6d17ec053",
+    authorization: "55ee091e-fdde-4068-8e71-e71a57ad15b5",
     "Content-Type": "application/json",
   },
 });
